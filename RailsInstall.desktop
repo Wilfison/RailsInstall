@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Rails Install
+Comment=Prepara ambiente de programação para desenvolvimento com Ruby e Rails
+Exec=sh -c "~/.local/share/RailsInstall/RailsInstall.sh"
+Icon=application-x-ruby
+Terminal=true
+Type=Application
+Categories=Application;Development;
+Name[pt_BR]=RailsInstall
